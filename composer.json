@@ -3,7 +3,7 @@
     "type": "library",
     "require": {
         "artarts36/git-handler": "^1.0",
-        "artarts36/shell-command-ssh-executor": "dev-dev",
+        "artarts36/shell-command-ssh-executor": "^1.2.0",
         "php": ">=7.2",
         "ext-ssh2": "*"
     },

@@ -6,7 +6,7 @@ Work with git repository on remote server
 
 ## Installation:
 
-`composer require artarts36/git-handler`
+`composer require artarts36/git-handler-remote`
 
 ----
 
